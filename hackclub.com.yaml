@@ -2073,3 +2073,11 @@ zwp:
   - ttl: 1
     type: A
     value: 172.99.233.117
+epanomi:
+  - ttl: 1
+    type: CNAME
+    value: epanomi-hack-club.github.io.
+SUBDOMAIN_NAME:
+  - ttl: 1
+    type: CNAME
+    value: CodetheTech.vercel.app
